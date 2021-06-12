@@ -1,3 +1,4 @@
+####shallow vs deep copy
 list1=[10,20,30]
 print("list1=",list1)
 #shallow copy
